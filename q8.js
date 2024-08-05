@@ -1,0 +1,1 @@
+// q8: Take  three number and find second smallest number
